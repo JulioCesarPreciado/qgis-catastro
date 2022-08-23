@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<acceso>
+ <servidor>localhost</servidor>
+ <usuario>root</usuario>
+ <password>taQ99Zm007</password>
+ <database>dbpospyqt</database>
+ <sucursal>catastro</sucursal>
+ <terminal>1</terminal>
+</acceso>
